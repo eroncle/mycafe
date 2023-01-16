@@ -8,4 +8,6 @@ h1 {
   font-size: 24px;
   padding-left: 16px;
   border-left: 8px solid chocolate;
+  background-color: #d6c6af;
+  border-bottom: 2px solid green;
 }
