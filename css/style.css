@@ -1,5 +1,9 @@
 @charset "utf-8";
 
+body {
+  background: #d6c6af;
+}
+
 h1 {
   font-size: 24px;
   padding-left: 16px;
